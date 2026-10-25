@@ -66,26 +66,7 @@ I enjoy turning ideas into functional products, exploring new technologies, and 
 </p>
 
 
-## 🚀 Featured Projects
 
-### 🤖 CV Screening & Implementation
-An AI-powered recruitment system designed to help HR teams analyze CVs, evaluate candidates, calculate scores, and rank applicants according to job requirements.
-
-**Technologies:** React, Node.js, Express.js, MongoDB, AI APIs.
-
-### 🎓 Amoud Online Registration
-A university registration system concept designed to streamline student semester registration, fee payment records, and administrative management.
-
-**Technologies:** React Native, Node.js, MongoDB.
-
-### ✈️ Cabiir Travel Agency
-A travel agency management application concept featuring dashboards for different branches, user management, and centralized data management.
-
-**Technologies:** React, TypeScript, Node.js, MongoDB.
-
-> Explore my repositories to discover more projects and ongoing experiments.
-
----
 
 ## 📈 Current Learning Goals
 
