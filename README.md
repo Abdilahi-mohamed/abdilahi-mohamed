@@ -83,7 +83,9 @@ I enjoy turning ideas into functional products, exploring new technologies, and 
 
 I'm interested in collaborating on software development projects, learning from other developers, and exploring opportunities to build useful technology products.
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/
+abdilahi-m-ahmed-564317393
+)
 - 🌐 Portfolio: [Visit my portfolio](YOUR_PORTFOLIO_URL)
 - 📧 Email: YOUR_EMAIL_ADDRESS
 - 🐙 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
