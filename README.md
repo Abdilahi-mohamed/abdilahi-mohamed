@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Abdilahi-mohamed&label=PROFILE+VIEWS&color=2563eb&style=flat)
+
 # 👋 Hi, I'm Abdilahi Mohamed Ahmed
 
 ### 💻 Software Engineer | Full-Stack Developer | Tech Enthusiast
