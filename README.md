@@ -1,4 +1,8 @@
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark)
+
 # 👋 Hi, I'm Abdilahi Mohamed Ahmed
 
 ### 💻 Software Engineer | Full-Stack Developer | Tech Enthusiast
