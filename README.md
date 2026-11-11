@@ -1,4 +1,8 @@
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abdilahi-mohamed&label=Profile%20Views&color=yellow&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark)
