@@ -95,8 +95,8 @@ I'm interested in collaborating on software development projects, learning from 
 - 💼 LinkedIn: [Connect with me](www.linkedin.com/in/
 abdilahi-m-ahmed-564317393
 )
-- 🌐 Portfolio: [Visit my portfolio](YOUR_PORTFOLIO_URL)
-- 📧 Email: YOUR_EMAIL_ADDRESS
+- 🌐 Portfolio: [Visit my portfolio]((https://my-portifolio-sigma-sooty.vercel.app/)L)
+- 📧 Email: abdilahimohamed459@gmail.com
 - 🐙 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
