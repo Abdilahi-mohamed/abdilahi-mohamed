@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Abdilahi Mohamed Ahmed
+ Abdilahi Mohamed Ahmed
 
 ### 💻 Software Engineer | Full-Stack Developer | Tech Enthusiast
 
