@@ -23,31 +23,21 @@ I'm a Full-Stack Software Developer and Software Engineering graduate from Amoud
 The tools and technologies I use to bring useful ideas to life.
 
 <div align="center">
+## 🧰 Tech Stack
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5"/>
-</a>
-<a href="https://tailwindcss.com/">
-<img src="https://img.shields.io/badge/CSS3%20%26%20Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="CSS3 and Tailwind"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript"/>
-</a>
-<a href="https://react.dev/">
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="React"/>
-</a>
-<a href="https://www.typescriptlang.org/">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="TypeScript"/>
-</a>
-<a href="https://nodejs.org/">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js"/>
-</a>
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Git and GitHub"/>
-</a>
-<a href="https://www.mongodb.com/">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB"/>
-</a>
+The tools and technologies I use to bring useful ideas to life.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-FFF8E7?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3_&_Tailwind-FFF8E7?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="CSS3 & Tailwind" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF8E7?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-FFF8E7?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/TypeScript-FFF8E7?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-FFF8E7?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-FFF8E7?style=for-the-badge&logo=github&logoColor=181717" alt="Git & GitHub" />
+  <img src="https://img.shields.io/badge/MongoDB-FFF8E7?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+</p>
 
 </div>
 
