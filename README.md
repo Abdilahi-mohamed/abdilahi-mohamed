@@ -7,11 +7,6 @@
 
 Building modern web applications, scalable systems, and digital experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portifolio-sigma-sooty.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdilahi-m-ahmed-564317393)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdilahimohamed459@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdilahi-mohamed)
-
 </div>
 
 ---
@@ -76,22 +71,29 @@ Building modern web applications, scalable systems, and digital experiences.
 
 I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
 
+<br/>
+
 <a href="https://github.com/abdilahi-mohamed">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/abdilahi-m-ahmed-564317393">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:abdilahimohamed459@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://my-portifolio-sigma-sooty.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-**Email:** abdilahimohamed459@gmail.com
+<a href="https://abdilahi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-**Portfolio:** https://my-portifolio-sigma-sooty.vercel.app/
+<br/><br/>
+
+**Email:** [abdilahimohamed459@gmail.com](mailto:abdilahimohamed459@gmail.com)
+
+**Portfolio:** [abdilahi.vercel.app](https://abdilahi.vercel.app/)
 
 </div>
 
