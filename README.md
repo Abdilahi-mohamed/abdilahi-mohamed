@@ -3,10 +3,7 @@
 
 # Hi, I'm Abdilahi Mohamed Ahmed 👋
 
-### Full-Stack Software Developer
-
-Building modern web applications, scalable systems, and digital experiences.
-
+I'm a Full-Stack Software Developer and Software Engineering graduate from Amoud University, passionate about building modern, scalable, and secure web applications. I work with technologies like JavaScript, TypeScript, React, Next.js, Node.js, Express, and MongoDB, focusing on creating practical digital solutions, SaaS platforms, and innovative products that solve real-world problems.
 </div>
 
 ---
