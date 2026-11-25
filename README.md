@@ -1,100 +1,80 @@
+<div align="center">
 
- Abdilahi Mohamed Ahmed
+# Hi, I'm Abdilahi Mohamed Ahmed 👋
 
-### 💻 Software Engineer | Full-Stack Developer | Tech Enthusiast
+### Full-Stack Software Engineer | Web & SaaS Product Builder
 
-Welcome to my GitHub profile! I'm a Software Engineering graduate from **Amoud University**, passionate about building modern web applications, scalable software solutions, and technology that solves real-world problems.
+Building scalable web applications, multi-tenant platforms, and AI-powered tools that solve real-world problems.
 
-I enjoy turning ideas into functional products, exploring new technologies, and continuously improving my software development skills.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Live_Site-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portifolio-sigma-sooty.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdilahi-m-ahmed-564317393)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdilahimohamed459@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 BSc in ICT, specializing in Software Engineering — Amoud University.
-- 💻 Interested in Full-Stack Development and Software Engineering.
-- 🌐 Building responsive web applications and interactive dashboards.
-- 🤖 Exploring AI-powered applications and intelligent automation.
-- 🎨 Interested in UI/UX design and creating intuitive user experiences.
-- 🛠️ Experienced in developing projects using modern JavaScript technologies.
-- 📚 Always learning, building, and improving.
-- 🎯 Goal: To build impactful software products and contribute to innovative technology projects.
+- 🎓 **BSc in ICT (Software Engineering)** — Amoud University
+- 🚀 **Full-Stack Product Development** — Designing and shipping end-to-end web applications, admin dashboards, and multi-tenant SaaS systems
+- 🤖 **Applied AI Integration** — Building practical AI-assisted workflows such as automated CV screening and candidate ranking
+- 🎨 **UI/UX Focused** — Crafting clean, responsive, and intuitive user interfaces with strong attention to visual detail
+- 🤝 **Open to Work & Collaboration** — Available for full-stack roles, freelance projects, and product partnerships
 
 ---
 
 ## 🧰 Tech Stack
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## 🧰 Tech Stack
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🎨 Frontend Development
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /></a>
-  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /></a>
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img src="https://skillicons.dev/icons?i=js" height="40" alt="REST APIs" /></a>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /></a>
-  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" /></a>
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p align="left">
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" /></a>
-</p>
-
-
-
-
-## 📈 Current Learning Goals
-
-- Advanced TypeScript and modern React development.
-- Building scalable backend APIs with Node.js and Express.
-- AI integration in real-world software applications.
-- Software architecture, Docker, and application deployment.
-- UI/UX design and product development.
-- Cloud technologies and cybersecurity fundamentals.
+### Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect
+## 🌟 Featured Projects
 
-I'm interested in collaborating on software development projects, learning from other developers, and exploring opportunities to build useful technology products.
-
-- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/
-abdilahi-m-ahmed-564317393
-)
-- 🌐 Portfolio: [Visit my portfolio]((https://my-portifolio-sigma-sooty.vercel.app/)
-- 📧 Email: abdilahimohamed459@gmail.com
-- 🐙 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Multi-Tenant SaaS Platform](https://github.com/Abdilahi-mohamed/multi-tanent-system-)** | Full-stack multi-tenant commerce system with super-admin governance, isolated merchant dashboards, payment workflows, and customer storefronts. | `JavaScript` `Node.js` `Tailwind CSS` |
+| **[CV Screening & Parser](https://github.com/Abdilahi-mohamed/cv-screaning-implementation)** | AI-assisted recruitment tool featuring automated resume parsing, candidate ranking, interview question generation, and company workspaces. | `TypeScript` `React` `Node.js` |
+| **[Developer Portfolio & CMS](https://github.com/Abdilahi-mohamed/my-portifolio)** | Personal portfolio built with Next.js/Vite featuring a rich-text admin editor, live GitHub activity integration, and customizable project showcases. | `TypeScript` `Next.js` `Tailwind CSS` |
+| **[Somali Traders Ranking](https://github.com/Abdilahi-mohamed/somali-traders-ranking-)** | Trader portal and verification platform with role-based authentication and ranking APIs. | `TypeScript` `Full-Stack` |
 
 ---
 
-### 💡 My Philosophy
+## 📈 Current Focus
 
-> Learn continuously. Build consistently. Solve real problems with technology.
+- Architecting scalable **TypeScript** and **Next.js** full-stack systems
+- Embedding **AI capabilities** into business and recruitment workflows
+- Containerizing and deploying production apps with **Docker** and **Nginx**
 
-⭐ Thanks for visiting my profile!
+---
+
+<div align="center">
+
+*"Learn continuously. Build consistently. Solve real problems with technology."*
+
+**[Explore Repositories](https://github.com/Abdilahi-mohamed?tab=repositories)** • **[View Portfolio](https://my-portifolio-sigma-sooty.vercel.app/)**
+
+</div>
