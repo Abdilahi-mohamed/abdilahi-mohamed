@@ -1,22 +1,16 @@
- <div align="center">
 
-# 👋 Hi, I'm Abdilahi Mohamed Ahmed
+<div align="center">
 
-### Full-Stack Software Engineer | Web & SaaS Product Builder
+# Hi, I'm Abdilahi Mohamed Ahmed 👋
 
-**Building modern digital products, scalable web applications, and AI-powered solutions.**
+### Full-Stack Software Developer
 
-<br/>
+Building modern web applications, scalable systems, and digital experiences.
 
-<a href="https://my-portifolio-sigma-sooty.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/abdilahi-m-ahmed-564317393">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:abdilahimohamed459@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portifolio-sigma-sooty.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdilahi-m-ahmed-564317393)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdilahimohamed459@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdilahi-mohamed)
 
 </div>
 
@@ -24,70 +18,29 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Software Engineer passionate about designing, developing, and deploying modern software solutions that solve real-world problems.
-
-- 🎓 **Education:** BSc in ICT (Software Engineering) — Amoud University.
-- 💻 **Development:** Full-Stack Web Applications, SaaS Platforms, and REST APIs.
-- 🤖 **Artificial Intelligence:** AI Integration, Automated CV Screening, and Intelligent Workflows.
-- 🏗️ **System Architecture:** Multi-Tenant Applications, Backend Architecture, and Database Design.
-- 🎨 **UI/UX:** Responsive Interfaces and Modern Dashboard Experiences.
-- 🌍 **Location:** Borama, Somaliland.
-- 🤝 **Opportunities:** Open to Remote Jobs, Freelance Projects, and Collaboration.
+- 🎓 Software Engineering Graduate – Amoud University.
+- 💻 Full-Stack Software Developer.
+- 🚀 Interested in building scalable and secure applications.
+- 🌱 Continuously learning modern technologies and software architecture.
+- 🤝 Open to collaboration, freelance projects, and professional opportunities.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technologies & Tools
 
-### 🎨 Frontend Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
-
-- RESTful API Development
-- Authentication & Authorization
-- Role-Based Access Control (RBAC)
-- Multi-Tenant Architecture
-- Backend Integration
-
-### 🗄️ Database & Data Management
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-- MongoDB
-- Database Design
-- Data Modeling
-- API Data Management
-
-### 🚀 DevOps & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vercel" />
-</p>
-
-- Docker & Containerization
-- Nginx
-- Git & GitHub
-- Vercel Deployment
-- Application Deployment & Configuration
-
----
-
-## 🎯 Current Focus
-
-- Building scalable applications using **TypeScript and Next.js**.
-- Developing secure and maintainable **Node.js backend systems**.
-- Exploring practical **AI integrations** for business automation.
-- Improving **System Architecture and Database Design**.
-- Learning advanced **Docker, Nginx, and Cloud Deployment**.
+</div>
 
 ---
 
@@ -95,38 +48,59 @@ I'm a Full-Stack Software Engineer passionate about designing, developing, and d
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdilahi-mohamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdilahi-mohamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdilahi-mohamed&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdilahi-mohamed&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Abdilahi-mohamed&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=abdilahi-mohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring new opportunities in software engineering.
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/Abdilahi-mohamed">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdilahi-mohamed&theme=tokyo-night&hide_border=true)](https://github.com/abdilahi-mohamed)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+
+<a href="https://github.com/abdilahi-mohamed">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/abdilahi-m-ahmed-564317393">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:abdilahimohamed459@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://my-portifolio-sigma-sooty.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br/><br/>
+**Email:** abdilahimohamed459@gmail.com
 
-*"Learn continuously. Build consistently. Solve real problems with technology."*
+**Portfolio:** https://my-portifolio-sigma-sooty.vercel.app/
 
-**Thanks for visiting my profile! 🚀**
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building Today. Innovating Tomorrow.
+
+⭐ Thank you for visiting my GitHub profile!
 
 </div>
